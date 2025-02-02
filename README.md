@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FGLOPEZ73
+- 👋 Hi, I’m Franco Gastón López
 - 👀 I’m interested in learn about code
 - 🌱 I’m currently learning software developer
 
